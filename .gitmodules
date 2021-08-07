@@ -1,0 +1,3 @@
+[submodule "web3bandeq"]
+	path = web3bandeq
+	url = https://github.com/theyyg/web3bandeq.git
